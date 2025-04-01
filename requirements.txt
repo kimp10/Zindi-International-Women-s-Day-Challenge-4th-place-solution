@@ -1,0 +1,10 @@
+# requirements.txt for Zindi competition submission
+# Compatible with Kaggle Notebooks environment as of April 1, 2025
+
+pandas==1.5.3          # Data manipulation and analysis
+numpy==1.23.5          # Numerical computing
+scikit-learn==1.2.2    # Machine learning algorithms and utilities
+xgboost==1.7.3         # Gradient boosting library
+lightgbm==3.3.5        # Light gradient boosting machine
+catboost==1.2          # Categorical gradient boosting
+optuna==3.1.0          # Hyperparameter optimization
